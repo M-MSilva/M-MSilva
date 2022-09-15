@@ -30,5 +30,5 @@
  <div>  
   <a href = "mailto:marcosmateusdepaivasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-matheus-silva-089699b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/M-MSilva/M-MSilva/blob/main/Curricullum_Marcos_Matheus.docx?raw=true" download><img src="https://img.shields.io/badge/-My%20Resume-%232E3748?style=for-the-badge&logo=appveyor" target="_blank"></a>
+  <a href="https://github.com/M-MSilva/M-MSilva/blob/main/Curricullum_Marcos_Matheus.docx?raw=true" download><img src="https://img.shields.io/badge/-My%20curriculum-%232e3748?style=for-the-badge&logo=appveyor" target="_blank"></a>
 </div> 
